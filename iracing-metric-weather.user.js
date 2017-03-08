@@ -6,6 +6,8 @@
 // @licence         MIT
 // @namespace       https://github.com/Che931
 // @match           *://members.iracing.com/membersite/member/EventResult.*
+// @updateURL       https://raw.githubusercontent.com/Che931/iracing-metric-weather/master/iracing-metric-weather.user.js
+// @downloadURL     https://raw.githubusercontent.com/Che931/iracing-metric-weather/master/iracing-metric-weather.user.js
 // @run-at          document-end
 // @grant           none
 // ==/UserScript==
