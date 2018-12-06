@@ -1,7 +1,5 @@
 # Iracing Metric Weather
 
-## Description
-
 ![Image](https://cdn.discordapp.com/attachments/496015842601861120/520057535483346954/IMW.png)
 
 Iracing metric weather is a simple userscript that converts event result page weather from imperial to metric units. You will not need to use any online conversor to know how cold/hot was your last race which you ~~crashed~~ won.
