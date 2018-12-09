@@ -16,6 +16,9 @@ Iracing Metric Weather is released under MIT licence. You can get more info [her
 
 ## Changelog
 
+### V0.0.4 (09-12-2018)
+* Modified to handle some strange results that use both systems(Celsius-MPH).
+
 ### V0.0.3 (06-12-2018)
 * Some changes due to day/night transitions... hurraaaah!!!
 
