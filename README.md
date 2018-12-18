@@ -12,9 +12,19 @@ If you don't trust my script, you can check it before install or ask me without 
 
 ## Licence
 
-Iracing Metric Weather is released under MIT licence. You can get more info [here](https://github.com/Che931/iracing-metric-weather/blob/master/LICENSE)
+Iracing Metric Weather is released under MIT licence. 
+You can get more info [here](https://github.com/Che931/iracing-metric-weather/blob/master/LICENSE).
+
 
 ## Changelog
+
+### V1.0.0
+
+* It should work in all weather configs, fog included. 
+* Main code has been simplified. 
+* It keeps text style.
+
+_Dynamic sessions don't have any weather info_
 
 ### V0.0.4 (09-12-2018)
 * Modified to handle some strange results that use both systems(Celsius-MPH).
