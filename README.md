@@ -32,7 +32,7 @@ _Dynamic sessions don't have any weather info_
 ### V0.0.3 (06-12-2018)
 * Some changes due to day/night transitions... hurraaaah!!!
 
-### V0.0.1 (03-09-2017)
+### V0.0.1 (09-03-2017)
 * Initial release
 
 _This project isn't an official [iRacing](https://www.iracing.com/) tool._
